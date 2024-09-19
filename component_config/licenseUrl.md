@@ -1,0 +1,1 @@
+https://github.com/gavinpryor/gavin-component-test/blob/master/LICENSE.md
